@@ -1,11 +1,11 @@
 # no_framework
-UI samples and design patterns which I use in projects. I'm getting out of css frameworks. everything is a component now. why, even you are a component.
+This is a working repo for UI samples and design patterns which I use in projects. I'm getting out of css frameworks. everything is a component now. why, even you are a component. 
 
 <strike>TODO: settle on a selector methodology. </strike>. 
 It's BEM I guess, b/c of specificity. I like the idea of flat. except the earth. lets keep that round amirite.
 
 TODO: replacement for css framework grids?  
-I like bootstrap for the (imho) intuitive naming conventions, the documentation & adoption within community, which is important because w/ a large community project bugs are fixed, issues are resolved.  but css grid has more flexibility, and  so bootstrap grid can be replaced. The naming convention and markup structure however, that is the thing.  
+I like libraries such as bootstrap/tailwindcss for the (imho) intuitive naming conventions, the documentation & adoption within community, which is important because w/ a large community project bugs are fixed, issues are resolved.  but css grid has more flexibility, and  so bootstrap grid can be replaced. The naming convention and markup structure however, that is the thing.  
 I would prefer using:
 
 ```
