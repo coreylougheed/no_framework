@@ -7,4 +7,4 @@ This is a working repo for UI samples and design patterns which I use in project
 * [Atomic CSS](https://acss.io/guides/syntax.html)
 
 ### Other
-[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
