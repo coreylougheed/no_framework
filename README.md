@@ -8,3 +8,5 @@ This is a working repo for UI samples and design patterns which I use in project
 
 ### Other
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+TODO: grid, card, nav, button
